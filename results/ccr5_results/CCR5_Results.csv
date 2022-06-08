@@ -1,0 +1,6 @@
+Model,R2,MAE,MSE,MaxError,Params,ExecutionTime
+LGBM_model_6,0.7573175871407843,0.5345114634338306,0.5460103113868374,2.8005418030537506,"{'boosting_type': 'gbdt', 'learning_rate': 0.126, 'max_depth': 42, 'n_estimators': 96, 'num_leaves': 64, 'subsample_for_bin': 60000}",0.6560206413269043
+LGBM_model_12,0.7604736614497118,0.5298214320659087,0.5389094708443579,2.6889780378316095,"{'boosting_type': 'gbdt', 'learning_rate': 0.126, 'max_depth': 42, 'n_estimators': 96, 'num_leaves': 64, 'subsample_for_bin': 60000}",0.6455123424530029
+LGBM_model_23,0.766502819306962,0.5294613952673604,0.525344489681313,2.508187724704679,"{'boosting_type': 'gbdt', 'learning_rate': 0.126, 'max_depth': 42, 'n_estimators': 96, 'num_leaves': 64, 'subsample_for_bin': 60000}",0.5254709720611572
+LGBM_model_17,0.766502819306962,0.5294613952673604,0.525344489681313,2.508187724704679,"{'boosting_type': 'gbdt', 'learning_rate': 0.126, 'max_depth': 42, 'n_estimators': 96, 'num_leaves': 64, 'subsample_for_bin': 60000}",0.5217740535736084
+RF_model_3,0.6953939387740249,0.6011031753481828,0.6853321111357038,3.499169166080817,"{'max_depth': 10, 'min_samples_leaf': 3, 'min_samples_split': 5, 'n_estimators': 1000}",29.082079887390137

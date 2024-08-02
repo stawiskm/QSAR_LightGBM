@@ -7,6 +7,10 @@ The project was divided into three parts, because three different applications w
 * MAO-B_Regressor [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stawiskm/QSAR_LightGBM/blob/main/MAO_B_Regressor.ipynb)
 * CCR5_Regressor [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stawiskm/QSAR_LightGBM/blob/main/CCR5_Regressor.ipynb)
 
+## Published
+Stawiski, M., Meier, P., Dornberger, R., Hanne, T. (2023). Using the Light Gradient Boosting Machine for Prediction in QSAR Models. In: Uddin, M.S., Bansal, J.C. (eds) Proceedings of International Joint Conference on Advances in Computational Intelligence. IJCACI 2022. Algorithms for Intelligent Systems. Springer, Singapore. https://doi.org/10.1007/978-981-99-1435-7_10
+
+## Take Home
 ![ACI_MS4_MarcJermann_PatrickMeier-1](https://user-images.githubusercontent.com/63347322/172795399-7d68fbc7-5716-4dc2-97fe-24b8e2fc0774.png)
 ![ACI_MS4_MarcJermann_PatrickMeier-2](https://user-images.githubusercontent.com/63347322/172795411-56fc9862-984a-4ec4-8b3c-cacc4379a661.png)
 ![ACI_MS4_MarcJermann_PatrickMeier-3](https://user-images.githubusercontent.com/63347322/172795420-9ab4932c-3351-4b03-b7ae-4c9ebf12ee45.png)
